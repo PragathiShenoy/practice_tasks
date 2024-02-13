@@ -1,0 +1,13 @@
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url(bg.jpeg);
+    background-size: cover;
+    background-color: rgb(32, 74, 74) ; /* Change to the desired color */
+}
+form{
+    box-shadow: 2px 8px 100px whitesmoke;
+}
